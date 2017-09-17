@@ -1,0 +1,3 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo2\bin\Debug\MyDemo2.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo2\obj\Debug\MyDemo2.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo2\obj\Debug\MyDemo2.pdb

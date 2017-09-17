@@ -1,0 +1,9 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemo1\MyDemo1\bin\Debug\MyDemo1.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemo1\MyDemo1\obj\Debug\MyDemo1.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemo1\MyDemo1\obj\Debug\MyDemo1.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemo\MyDemo1\bin\Debug\MyDemo1.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemo\MyDemo1\obj\Debug\MyDemo1.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemo\MyDemo1\obj\Debug\MyDemo1.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo1\bin\Debug\MyDemo1.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo1\obj\Debug\MyDemo1.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo1\obj\Debug\MyDemo1.pdb
