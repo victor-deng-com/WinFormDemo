@@ -43,5 +43,10 @@ namespace MyDemo1
         {
             Close();
         }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
