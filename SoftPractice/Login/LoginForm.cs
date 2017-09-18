@@ -25,9 +25,9 @@ namespace Login
 
         private void loginButton_Click(object sender, EventArgs e)
         {
-            MainForm Desktop=new MainForm();
-            Hide();
-            Desktop.Show();
+            //MainForm Desktop=new MainForm();
+            //Hide();
+            //Desktop.Show();
         }
     }
 }
