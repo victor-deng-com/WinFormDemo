@@ -1,0 +1,8 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo02_Thread\bin\Debug\Demo02_Thread.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo02_Thread\bin\Debug\Demo02_Thread.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo02_Thread\bin\Debug\Demo02_Thread.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo02_Thread\obj\Debug\Demo02_Thread.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo02_Thread\obj\Debug\Demo02_Thread.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo02_Thread\obj\Debug\Demo02_Thread.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo02_Thread\obj\Debug\Demo02_Thread.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo02_Thread\obj\Debug\Demo02_Thread.Form1.resources

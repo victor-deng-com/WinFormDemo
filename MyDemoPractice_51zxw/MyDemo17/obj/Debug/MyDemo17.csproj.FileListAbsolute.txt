@@ -1,0 +1,9 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo17\bin\Debug\MyDemo17.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo17\obj\Debug\MyDemo17.csprojResolveAssemblyReference.cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo17\obj\Debug\MyDemo17.MainForm.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo17\obj\Debug\MyDemo17.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo17\obj\Debug\MyDemo17.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo17\bin\Debug\MyDemo17.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo17\bin\Debug\MyDemo17.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo17\obj\Debug\MyDemo17.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo17\obj\Debug\MyDemo17.pdb

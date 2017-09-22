@@ -1,0 +1,8 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo9\bin\Debug\MyDemo9.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo9\bin\Debug\MyDemo9.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo9\bin\Debug\MyDemo9.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo9\obj\Debug\MyDemo9.MainForm.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo9\obj\Debug\MyDemo9.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo9\obj\Debug\MyDemo09_ComboListCheckedList.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo9\obj\Debug\MyDemo9.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo9\obj\Debug\MyDemo9.pdb

@@ -1,0 +1,3 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo19\bin\Debug\MyDemo19.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo19\obj\Debug\MyDemo19.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo19\obj\Debug\MyDemo19.csproj.GenerateResource.Cache

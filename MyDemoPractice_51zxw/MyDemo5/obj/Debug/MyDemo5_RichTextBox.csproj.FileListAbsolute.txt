@@ -1,0 +1,9 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo5\bin\Debug\MyDemo5.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo5\bin\Debug\MyDemo5.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo5\bin\Debug\MyDemo5.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo5\obj\Debug\MyDemo5_RichTextBox.csprojResolveAssemblyReference.cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo5\obj\Debug\MyDemo5.MainForm.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo5\obj\Debug\MyDemo5.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo5\obj\Debug\MyDemo5_RichTextBox.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo5\obj\Debug\MyDemo5.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo5\obj\Debug\MyDemo5.pdb

@@ -1,0 +1,9 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo03_SocketService\bin\Debug\Demo03_SocketService.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo03_SocketService\bin\Debug\Demo03_SocketService.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo03_SocketService\bin\Debug\Demo03_SocketService.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo03_SocketService\obj\Debug\Demo03_SocketService.csprojResolveAssemblyReference.cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo03_SocketService\obj\Debug\Demo03_SocketService.Form1.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo03_SocketService\obj\Debug\Demo03_SocketService.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo03_SocketService\obj\Debug\Demo03_SocketService.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo03_SocketService\obj\Debug\Demo03_SocketService.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo03_SocketService\obj\Debug\Demo03_SocketService.pdb

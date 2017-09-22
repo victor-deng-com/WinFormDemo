@@ -1,0 +1,9 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo01\bin\Debug\Demo01.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo01\bin\Debug\Demo01.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo01\bin\Debug\Demo01.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo01\obj\Debug\Demo01_Music.csprojResolveAssemblyReference.cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo01\obj\Debug\Demo01.Form1.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo01\obj\Debug\Demo01.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo01\obj\Debug\Demo01_Music.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo01\obj\Debug\Demo01.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo01\obj\Debug\Demo01.pdb

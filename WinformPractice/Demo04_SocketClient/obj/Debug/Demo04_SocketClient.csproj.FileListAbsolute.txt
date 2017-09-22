@@ -1,0 +1,8 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo04_SocketClient\bin\Debug\Demo04_SocketClient.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo04_SocketClient\bin\Debug\Demo04_SocketClient.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo04_SocketClient\bin\Debug\Demo04_SocketClient.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo04_SocketClient\obj\Debug\Demo04_SocketClient.Form1.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo04_SocketClient\obj\Debug\Demo04_SocketClient.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo04_SocketClient\obj\Debug\Demo04_SocketClient.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo04_SocketClient\obj\Debug\Demo04_SocketClient.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo04_SocketClient\obj\Debug\Demo04_SocketClient.pdb
