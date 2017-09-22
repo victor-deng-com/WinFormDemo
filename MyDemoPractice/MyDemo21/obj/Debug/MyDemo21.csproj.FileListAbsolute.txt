@@ -1,8 +1,0 @@
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo21\bin\Debug\MyDemo21.exe.config
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo21\bin\Debug\MyDemo21.exe
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo21\bin\Debug\MyDemo21.pdb
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo21\obj\Debug\MyDemo21.MainForm.resources
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo21\obj\Debug\MyDemo21.Properties.Resources.resources
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo21\obj\Debug\MyDemo21.csproj.GenerateResource.Cache
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo21\obj\Debug\MyDemo21.exe
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo21\obj\Debug\MyDemo21.pdb

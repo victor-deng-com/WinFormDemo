@@ -1,8 +1,0 @@
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo7\bin\Debug\MyDemo7.exe.config
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo7\bin\Debug\MyDemo7.exe
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo7\bin\Debug\MyDemo7.pdb
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo7\obj\Debug\MyDemo7.MainForm.resources
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo7\obj\Debug\MyDemo7.Properties.Resources.resources
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo7\obj\Debug\MyDemo07_CheckBox.csproj.GenerateResource.Cache
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo7\obj\Debug\MyDemo7.exe
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemoPractice\MyDemo7\obj\Debug\MyDemo7.pdb

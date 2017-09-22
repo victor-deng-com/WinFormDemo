@@ -1,9 +1,0 @@
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemo1\MyDemo1\bin\Debug\MyDemo1.exe.config
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemo1\MyDemo1\bin\Debug\MyDemo1.exe
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemo1\MyDemo1\bin\Debug\MyDemo1.pdb
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemo1\MyDemo1\obj\Debug\MyDemo1.csprojResolveAssemblyReference.cache
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemo1\MyDemo1\obj\Debug\MyDemo1.Properties.Resources.resources
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemo1\MyDemo1\obj\Debug\MyDemo1.csproj.GenerateResource.Cache
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemo1\MyDemo1\obj\Debug\MyDemo1.exe
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemo1\MyDemo1\obj\Debug\MyDemo1.pdb
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\MyDemo1\MyDemo1\obj\Debug\MyDemo1.MainForm.resources

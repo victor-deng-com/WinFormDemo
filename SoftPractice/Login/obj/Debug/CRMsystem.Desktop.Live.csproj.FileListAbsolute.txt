@@ -1,8 +1,0 @@
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\SoftPractice\Login\bin\Debug\Login.exe.config
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\SoftPractice\Login\bin\Debug\Login.exe
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\SoftPractice\Login\bin\Debug\Login.pdb
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\SoftPractice\Login\obj\Debug\Login.LoginForm.resources
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\SoftPractice\Login\obj\Debug\Login.Properties.Resources.resources
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\SoftPractice\Login\obj\Debug\CRMsystem.Desktop.Live.csproj.GenerateResource.Cache
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\SoftPractice\Login\obj\Debug\Login.exe
-D:\workspace\visual studio\Projects\Github_private\WinFormDemo\SoftPractice\Login\obj\Debug\Login.pdb
