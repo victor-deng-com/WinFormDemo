@@ -21,12 +21,13 @@ namespace Demo03_SocketService
             InitializeComponent();
         }
 
+        Socket socketWatch;
         private void BTNstart_Click(object sender, EventArgs e)
         {
             try
             {
                 //当点击开始监听的时候，在服务器端创建一个负责监听IP地址跟端口号的socket
-                Socket socketWatch = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+                socketWatch = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
                 IPAddress ip = IPAddress.Parse(TBserver.Text);
                 //创建端口对象
                 IPEndPoint point = new IPEndPoint(ip, Convert.ToInt32(TBport.Text));
@@ -94,13 +95,24 @@ namespace Demo03_SocketService
                     //实际接受到的有效字节数
                     int r = socketSend.Receive(buffer);
                     //用户下线则接收到的有效字节数为0
-                    if (r == 0) { break; }
+                    if (r == 0) {
+                        //连接关闭时服务器也关闭该socket通道
+                        socketSend.Shutdown(SocketShutdown.Both);
+                        socketSend.Close();
+                        ShowMsg(socketSend.RemoteEndPoint + ":" + "该通道已被关闭");
+                        break;
+                    }
                     string str = Encoding.UTF8.GetString(buffer, 0, r);
                     ShowMsg(socketSend.RemoteEndPoint + ":" + str);
                 }
-                catch
+                catch (Exception ex)
                 {
-                    //异常日志
+                    //连接关闭时服务器也关闭该socket通道
+                    //socketSend.Shutdown(SocketShutdown.Both);
+                    //socketSend.Close();
+                    //ShowMsg(socketSend.RemoteEndPoint + ":" + "该通道已被关闭,提示："+ ex.Message);
+                    ShowMsg("该通道已被关闭,提示：" + ex.Message);
+                    break;
                 }
             }
         }
@@ -118,21 +130,29 @@ namespace Demo03_SocketService
         //服务器给客户端发送消息
         private void BTNsendMessage_Click(object sender, EventArgs e)
         {
-            string str = TBsendMessage.Text;
-            byte[] buffer = Encoding.UTF8.GetBytes(str);
-            //添加信息类型标记
-            List<byte> list = new List<byte>();
-            list.Add(0);
-            list.AddRange(buffer);
-            //将泛型集合转换为数组
-            byte[] newBuffer = list.ToArray();
+            try
+            {
+                string str = TBsendMessage.Text;
+                byte[] buffer = Encoding.UTF8.GetBytes(str);
+                //添加信息类型标记
+                List<byte> list = new List<byte>();
+                list.Add(0);
+                list.AddRange(buffer);
+                //将泛型集合转换为数组
+                byte[] newBuffer = list.ToArray();
 
-            //socketSend.Send(buffer);
-            //获得用户在下拉框中选中的IP地址
-            string ip = CBuserIP.SelectedItem.ToString();
-            dicSocket[ip].Send(newBuffer);
+                //socketSend.Send(buffer);
+                //获得用户在下拉框中选中的IP地址
+                string ip = CBuserIP.SelectedItem.ToString();
+                dicSocket[ip].Send(newBuffer);
+            }
+            catch
+            {
+                MessageBox.Show("请选择要发送的IP地址","信息提示");
+            }
         }
 
+        #region 选择文件
         private void BTNchose_Click(object sender, EventArgs e)
         {
             OpenFileDialog ofd = new OpenFileDialog();
@@ -142,7 +162,9 @@ namespace Demo03_SocketService
             ofd.ShowDialog();
             TBpath.Text = ofd.FileName;
         }
+        #endregion
 
+        #region 发送文件
         private void BTNsendFile_Click(object sender, EventArgs e)
         {
             //获取要发送文件的路径
@@ -160,13 +182,23 @@ namespace Demo03_SocketService
                 dicSocket[CBuserIP.SelectedItem.ToString()].Send(newBuffer, 0,r+1,SocketFlags.None);
             }
         }
+        #endregion
 
-        //发送震动
+        #region 发送震动
         private void button3_Click(object sender, EventArgs e)
         {
             byte[] buffer = new byte[1];
             buffer[0] = 2;
             dicSocket[CBuserIP.SelectedItem.ToString()].Send(buffer);
+        }
+        #endregion
+
+        private void BTNstop_Click(object sender, EventArgs e)
+        {
+            //socketWatch.Shutdown(SocketShutdown.Both);
+            //socketWatch.Close();
+            BTNstart.Enabled = true;
+            BTNstop.Enabled = false;
         }
     }
 }

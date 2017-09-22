@@ -161,6 +161,7 @@
             this.BTNstop.TabIndex = 12;
             this.BTNstop.Text = "暂停监听";
             this.BTNstop.UseVisualStyleBackColor = true;
+            this.BTNstop.Click += new System.EventHandler(this.BTNstop_Click);
             // 
             // CBuserIP
             // 
