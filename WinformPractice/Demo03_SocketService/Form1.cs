@@ -20,6 +20,10 @@ namespace Demo03_SocketService
         {
             InitializeComponent();
         }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            Control.CheckForIllegalCrossThreadCalls = false;
+        }
 
         Socket socketWatch;
         private void BTNstart_Click(object sender, EventArgs e)
@@ -95,11 +99,10 @@ namespace Demo03_SocketService
                     //实际接受到的有效字节数
                     int r = socketSend.Receive(buffer);
                     //用户下线则接收到的有效字节数为0
-                    if (r == 0) {
-                        //连接关闭时服务器也关闭该socket通道
-                        socketSend.Shutdown(SocketShutdown.Both);
-                        socketSend.Close();
-                        ShowMsg(socketSend.RemoteEndPoint + ":" + "该通道已被关闭");
+                    if (r == 0)
+                    {
+                        //socketSend.Shutdown(SocketShutdown.Both);
+                        //socketSend.Close();
                         break;
                     }
                     string str = Encoding.UTF8.GetString(buffer, 0, r);
@@ -122,33 +125,34 @@ namespace Demo03_SocketService
             TBlog.AppendText(str + "\r\n");
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            Control.CheckForIllegalCrossThreadCalls = false;
-        }
-
         //服务器给客户端发送消息
         private void BTNsendMessage_Click(object sender, EventArgs e)
         {
             try
             {
+                string ip = CBuserIP.SelectedItem.ToString();
                 string str = TBsendMessage.Text;
                 byte[] buffer = Encoding.UTF8.GetBytes(str);
-                //添加信息类型标记
-                List<byte> list = new List<byte>();
-                list.Add(0);
-                list.AddRange(buffer);
-                //将泛型集合转换为数组
-                byte[] newBuffer = list.ToArray();
+                dicSocket[ip].Send(buffer);
 
-                //socketSend.Send(buffer);
-                //获得用户在下拉框中选中的IP地址
-                string ip = CBuserIP.SelectedItem.ToString();
-                dicSocket[ip].Send(newBuffer);
+                ////添加信息类型标记
+                //List<byte> list = new List<byte>();
+                //list.Add(0);
+                //list.AddRange(buffer);
+                ////将泛型集合转换为数组
+                //byte[] newBuffer = list.ToArray();
+                //dicSocket[ip].Send(newBuffer);
             }
             catch
             {
-                MessageBox.Show("请选择要发送的IP地址","信息提示");
+                //dicSocket[ip].Shutdown(SocketShutdown.Both);
+                //dicSocket[ip].Close();
+                //MessageBox.Show(ip + ":该IP地址socket通道已关闭", "信息提示");
+                //dicSocket.Remove(ip);
+                //CBuserIP.Items.Remove(ip);
+                //异常处理：
+                //1.未选择IP地址
+                //2.socket通道已被关闭
             }
         }
 
@@ -156,7 +160,7 @@ namespace Demo03_SocketService
         private void BTNchose_Click(object sender, EventArgs e)
         {
             OpenFileDialog ofd = new OpenFileDialog();
-            ofd.InitialDirectory= @"C:\Users\Administrator\Desktop";
+            ofd.InitialDirectory = @"C:\Users\Administrator\Desktop";
             ofd.Title = "请选择要发送的文件";
             ofd.Filter = "所有文件|*.*";
             ofd.ShowDialog();
@@ -179,7 +183,7 @@ namespace Demo03_SocketService
                 list.AddRange(buffer);
                 byte[] newBuffer = list.ToArray();
 
-                dicSocket[CBuserIP.SelectedItem.ToString()].Send(newBuffer, 0,r+1,SocketFlags.None);
+                dicSocket[CBuserIP.SelectedItem.ToString()].Send(newBuffer, 0, r + 1, SocketFlags.None);
             }
         }
         #endregion
@@ -199,6 +203,7 @@ namespace Demo03_SocketService
             //socketWatch.Close();
             BTNstart.Enabled = true;
             BTNstop.Enabled = false;
+            //遍历关闭所有的socket通道
         }
     }
 }
