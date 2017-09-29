@@ -1,0 +1,10 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo08_JsonAndObject\bin\Debug\Demo08_JsonAndObject.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo08_JsonAndObject\bin\Debug\Demo08_JsonAndObject.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo08_JsonAndObject\bin\Debug\Demo08_JsonAndObject.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo08_JsonAndObject\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo08_JsonAndObject\obj\Debug\Demo08_JsonAndObject.csprojResolveAssemblyReference.cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo08_JsonAndObject\obj\Debug\Demo08_JsonAndObject.Form1.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo08_JsonAndObject\obj\Debug\Demo08_JsonAndObject.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo08_JsonAndObject\obj\Debug\Demo08_JsonAndObject.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo08_JsonAndObject\obj\Debug\Demo08_JsonAndObject.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo08_JsonAndObject\obj\Debug\Demo08_JsonAndObject.pdb

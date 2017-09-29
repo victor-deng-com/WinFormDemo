@@ -1,0 +1,9 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo06_substringCount\bin\Debug\Demo06_substringCount.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo06_substringCount\bin\Debug\Demo06_substringCount.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo06_substringCount\bin\Debug\Demo06_substringCount.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo06_substringCount\obj\Debug\Demo06_substringCount.csprojResolveAssemblyReference.cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo06_substringCount\obj\Debug\Demo06_substringCount.Form1.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo06_substringCount\obj\Debug\Demo06_substringCount.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo06_substringCount\obj\Debug\Demo06_substringCount.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo06_substringCount\obj\Debug\Demo06_substringCount.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo06_substringCount\obj\Debug\Demo06_substringCount.pdb

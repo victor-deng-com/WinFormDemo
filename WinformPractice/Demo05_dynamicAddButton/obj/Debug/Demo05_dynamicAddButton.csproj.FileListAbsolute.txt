@@ -1,0 +1,9 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo05_dynamicAddButton\bin\Debug\Demo05_dynamicAddButton.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo05_dynamicAddButton\bin\Debug\Demo05_dynamicAddButton.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo05_dynamicAddButton\bin\Debug\Demo05_dynamicAddButton.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo05_dynamicAddButton\obj\Debug\Demo05_dynamicAddButton.csprojResolveAssemblyReference.cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo05_dynamicAddButton\obj\Debug\Demo05_dynamicAddButton.Form1.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo05_dynamicAddButton\obj\Debug\Demo05_dynamicAddButton.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo05_dynamicAddButton\obj\Debug\Demo05_dynamicAddButton.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo05_dynamicAddButton\obj\Debug\Demo05_dynamicAddButton.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo05_dynamicAddButton\obj\Debug\Demo05_dynamicAddButton.pdb
