@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo07_backgroundWorker", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo08_JsonAndObject", "Demo08_JsonAndObject\Demo08_JsonAndObject.csproj", "{99C71FCD-C55C-4914-A509-9E06BA287707}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo09_buttonShortcuts", "Demo09_buttonShortcuts\Demo09_buttonShortcuts.csproj", "{7A539C22-002F-4A9D-B2DD-31BF1D4A9116}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{99C71FCD-C55C-4914-A509-9E06BA287707}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99C71FCD-C55C-4914-A509-9E06BA287707}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99C71FCD-C55C-4914-A509-9E06BA287707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A539C22-002F-4A9D-B2DD-31BF1D4A9116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A539C22-002F-4A9D-B2DD-31BF1D4A9116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A539C22-002F-4A9D-B2DD-31BF1D4A9116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A539C22-002F-4A9D-B2DD-31BF1D4A9116}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

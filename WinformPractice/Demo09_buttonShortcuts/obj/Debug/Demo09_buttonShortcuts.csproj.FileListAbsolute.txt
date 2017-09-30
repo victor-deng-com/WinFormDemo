@@ -1,0 +1,8 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo09_buttonShortcuts\bin\Debug\Demo09_buttonShortcuts.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo09_buttonShortcuts\bin\Debug\Demo09_buttonShortcuts.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo09_buttonShortcuts\bin\Debug\Demo09_buttonShortcuts.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo09_buttonShortcuts\obj\Debug\Demo09_buttonShortcuts.Form1.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo09_buttonShortcuts\obj\Debug\Demo09_buttonShortcuts.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo09_buttonShortcuts\obj\Debug\Demo09_buttonShortcuts.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo09_buttonShortcuts\obj\Debug\Demo09_buttonShortcuts.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo09_buttonShortcuts\obj\Debug\Demo09_buttonShortcuts.pdb

@@ -85,6 +85,7 @@ namespace Demo07_backgroundWorker
             }
         }
 
+        //线程结束时自动调用的结果返回，可用于线程异常结束的重启
         private void backgroundWorkerExample_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
         {
             if (e.Error == null)
