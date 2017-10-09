@@ -1,0 +1,8 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\test\bin\Debug\test.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\test\bin\Debug\test.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\test\bin\Debug\test.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\test\obj\Debug\test.Form1.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\test\obj\Debug\test.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\test\obj\Debug\test.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\test\obj\Debug\test.pdb

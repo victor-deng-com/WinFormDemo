@@ -1,0 +1,9 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo11_TextboxBubble\bin\Debug\Demo11_TextboxBubble.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo11_TextboxBubble\bin\Debug\Demo11_TextboxBubble.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo11_TextboxBubble\bin\Debug\Demo11_TextboxBubble.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo11_TextboxBubble\obj\Debug\Demo11_TextboxBubble.csprojResolveAssemblyReference.cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo11_TextboxBubble\obj\Debug\Demo11_TextboxBubble.Form1.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo11_TextboxBubble\obj\Debug\Demo11_TextboxBubble.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo11_TextboxBubble\obj\Debug\Demo11_TextboxBubble.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo11_TextboxBubble\obj\Debug\Demo11_TextboxBubble.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo11_TextboxBubble\obj\Debug\Demo11_TextboxBubble.pdb

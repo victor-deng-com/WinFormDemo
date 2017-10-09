@@ -1,0 +1,9 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo13_notifyiconTwinkle\bin\Debug\Demo13_notifyiconTwinkle.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo13_notifyiconTwinkle\bin\Debug\Demo13_notifyiconTwinkle.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo13_notifyiconTwinkle\bin\Debug\Demo13_notifyiconTwinkle.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo13_notifyiconTwinkle\obj\Debug\Demo13_notifyiconTwinkle.csprojResolveAssemblyReference.cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo13_notifyiconTwinkle\obj\Debug\Demo13_notifyiconTwinkle.Form1.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo13_notifyiconTwinkle\obj\Debug\Demo13_notifyiconTwinkle.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo13_notifyiconTwinkle\obj\Debug\Demo13_notifyiconTwinkle.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo13_notifyiconTwinkle\obj\Debug\Demo13_notifyiconTwinkle.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo13_notifyiconTwinkle\obj\Debug\Demo13_notifyiconTwinkle.pdb

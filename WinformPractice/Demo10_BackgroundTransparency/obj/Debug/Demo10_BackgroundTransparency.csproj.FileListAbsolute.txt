@@ -1,0 +1,9 @@
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo10_BackgroundTransparency\bin\Debug\Demo10_BackgroundTransparency.exe.config
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo10_BackgroundTransparency\bin\Debug\Demo10_BackgroundTransparency.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo10_BackgroundTransparency\bin\Debug\Demo10_BackgroundTransparency.pdb
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo10_BackgroundTransparency\obj\Debug\Demo10_BackgroundTransparency.csprojResolveAssemblyReference.cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo10_BackgroundTransparency\obj\Debug\Demo10_BackgroundTransparency.MainForm.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo10_BackgroundTransparency\obj\Debug\Demo10_BackgroundTransparency.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo10_BackgroundTransparency\obj\Debug\Demo10_BackgroundTransparency.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo10_BackgroundTransparency\obj\Debug\Demo10_BackgroundTransparency.exe
+D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo10_BackgroundTransparency\obj\Debug\Demo10_BackgroundTransparency.pdb
