@@ -8,3 +8,12 @@ D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\D
 D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo07_backgroundWorker\obj\Debug\Demo07_backgroundWorker.csproj.GenerateResource.Cache
 D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo07_backgroundWorker\obj\Debug\Demo07_backgroundWorker.exe
 D:\workspace\visual studio\Projects\Github_private\WinFormDemo\WinformPractice\Demo07_backgroundWorker\obj\Debug\Demo07_backgroundWorker.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\WinformPractice\Demo07_backgroundWorker\bin\Debug\Demo07_backgroundWorker.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\WinformPractice\Demo07_backgroundWorker\obj\Debug\Demo07_backgroundWorker.exe
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\WinformPractice\Demo07_backgroundWorker\obj\Debug\Demo07_backgroundWorker.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\WinformPractice\Demo07_backgroundWorker\bin\Debug\Demo07_backgroundWorker.exe
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\WinformPractice\Demo07_backgroundWorker\bin\Debug\Demo07_backgroundWorker.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\WinformPractice\Demo07_backgroundWorker\obj\Debug\Demo07_backgroundWorker.csprojResolveAssemblyReference.cache
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\WinformPractice\Demo07_backgroundWorker\obj\Debug\Demo07_backgroundWorker.Form1.resources
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\WinformPractice\Demo07_backgroundWorker\obj\Debug\Demo07_backgroundWorker.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\WinformPractice\Demo07_backgroundWorker\obj\Debug\Demo07_backgroundWorker.csproj.GenerateResource.Cache

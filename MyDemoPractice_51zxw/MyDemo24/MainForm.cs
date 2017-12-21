@@ -22,8 +22,14 @@ namespace MyDemo24
             InitializeComponent();
         }
 
+        public int num;
         private void timer1_Tick(object sender, EventArgs e)
         {
+            if (progressBar1.Value < num)
+            {
+                timer1.Stop();
+            }
+
             //progressBar1.PerformStep();
             if (progressBar1.Value > progressBar1.Minimum)
             {

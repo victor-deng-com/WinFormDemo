@@ -1,0 +1,9 @@
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\MyDemoPractice_51zxw\MyDemo24\bin\Debug\MyDemo24.exe.config
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\MyDemoPractice_51zxw\MyDemo24\obj\Debug\MyDemo24.exe
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\MyDemoPractice_51zxw\MyDemo24\obj\Debug\MyDemo24.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\MyDemoPractice_51zxw\MyDemo24\bin\Debug\MyDemo24.exe
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\MyDemoPractice_51zxw\MyDemo24\bin\Debug\MyDemo24.pdb
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\MyDemoPractice_51zxw\MyDemo24\obj\Debug\MyDemo24.MainForm.resources
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\MyDemoPractice_51zxw\MyDemo24\obj\Debug\MyDemo24.Properties.Resources.resources
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\MyDemoPractice_51zxw\MyDemo24\obj\Debug\MyDemo24_ProgressBar.csproj.GenerateResource.Cache
+D:\workspace\VisualStudio\Projects\Github_private\WinFormDemo\MyDemoPractice_51zxw\MyDemo24\obj\Debug\MyDemo24_ProgressBar.csprojResolveAssemblyReference.cache
